@@ -1,0 +1,34 @@
+# Lecture 4 
+Operators are symbols that perform operations used for modifying or manipulating data. Manipulating data is an essential part of any programming language, and Dart is no different, providing a rich set of operators for its basic types.
+
+## Types of operators
+In this chapter, we are going to cover the following built-in operators in Dart:
+
+1. Arithmetic Operators
+2. Equality and Relational Operators
+3. Type Test Operators
+4. Assignment Operators
+5. Logical Operators
+6. Bitwise and Shift Operators
+
+
+# Homework 3 for lectures 4
+## Task 1
+### Problems need to practice 
+Go through problems and run all the variables. 
+1. Retype them in your editor in practice1.dart
+2. Retype them in your editor in lecture3demo2.dart
+
+## Task 2
+### Problems need to practice 
+You are given a variable, fahrenheit, which stores a temperature in degrees Fahrenheit. You have to create a variable, celsius, which converts the temperature stored in fahrenheit to degrees Celsius.
+
+To convert temperature from degrees Fahrenheit to degrees Celsius, you first need to subtract 32 from the temperature, then multiply it by 5, followed by a division by 9.
+
+### Input
+The input is the variable fahrenheit. Fahrenheit has already been declared for you.
+
+### Output
+The output will be the value assigned to celsius.
+
+### Solution is given in practice3.dart
