@@ -63,4 +63,4 @@ If this just `.zip` file, then - 0 points.
 
 ## Good luck
 
-Made with :heart: 
+Made with 🌟
